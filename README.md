@@ -25,7 +25,7 @@ GhostRun загружает репозиторий с GitHub одним tarball-
 pip install aiohttp python-dotenv
 ```
 
-Скопируй `github_runner.py` в свой проект — это единственный файл, который тебе нужен.
+Скопируй `GhostRun.py` в свой проект — это единственный файл, который тебе нужен.
 
 ---
 
@@ -33,7 +33,7 @@ pip install aiohttp python-dotenv
 
 ```python
 import asyncio
-from github_runner import GitHubProjectRunner
+from GhostRun import GitHubProjectRunner
 
 async def main():
     runner = GitHubProjectRunner(
@@ -52,7 +52,7 @@ asyncio.run(main())
 
 ```python
 import asyncio
-from github_runner import GitHubProjectRunner
+from GhostRun import GitHubProjectRunner
 
 REPOS = [
     "owner/bot-one",

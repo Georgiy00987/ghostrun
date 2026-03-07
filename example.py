@@ -5,7 +5,7 @@ import asyncio
 import logging
 import os
 
-from github_runner import GitHubProjectRunner
+from GhostRun import GitHubProjectRunner
 
 logging.basicConfig(
     format="[%(levelname)-5s] [%(asctime)s] [LINE:%(lineno)d] %(name)s — %(message)s",
