@@ -1,0 +1,48 @@
+[INFO   ] Logger: Record log in /storage/emulated/0/Android/Tools_Gui/Kivy-GhostRun/.kivy/logs/kivy_26-03-14_4.txt
+[INFO   ] Kivy: v2.2.1
+[INFO   ] Kivy: Installed at "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/lib/python3.11/site-packages/kivy/__init__.py"
+[INFO   ] Python: v3.11.4 (main, Sep 30 2023, 10:54:38) [GCC 11.4.0]
+[INFO   ] Python: Interpreter at "/data/user/0/ru.iiec.pydroid3/files/aarch64-linux-android/bin/python3"
+[INFO   ] Logger: Purge log fired. Processing...
+[INFO   ] Logger: Purge finished!
+[INFO   ] Factory: 190 symbols loaded
+[INFO   ] Image: Providers: img_tex, img_dds, img_sdl2, img_pil (img_ffpyplayer ignored)
+[INFO   ] Text: Provider: sdl2
+[INFO   ] Window: Provider: sdl2
+[INFO   ] GL: Using the "OpenGL ES 2" graphics system
+[INFO   ] GL: Backend used <sdl2>
+[INFO   ] GL: OpenGL version <b'OpenGL ES 3.2 V@0502.0 (GIT@db3d445dbc, Ia06b22fa1a, 1633355031) (Date:10/04/21)'>
+[INFO   ] GL: OpenGL vendor <b'Qualcomm'>
+[INFO   ] GL: OpenGL renderer <b'Adreno (TM) 650'>
+[INFO   ] GL: OpenGL parsed version: 3, 2
+[INFO   ] GL: Texture max size <16384>
+[INFO   ] GL: Texture max units <16>
+[INFO   ] Window: auto add sdl2 input provider
+[INFO   ] Window: virtual keyboard not allowed, single mode, not docked
+[WARNING] Base: Unknown <android> provider
+[INFO   ] Base: Start application main loop
+[INFO   ] GL: NPOT texture support is available
+[DEBUG  ] Using selector: EpollSelector
+[INFO   ] ────────────────────────────────────────────────────────────
+[INFO   ] ────────────────────────────────────────────────────────────
+[INFO   ] [Georgiy00987_Shop-Minecraft_6dde62ea] Loading Georgiy00987/Shop-Minecraft
+[INFO   ] [Georgiy00987_Home-Helper_08458df5] Loading Georgiy00987/Home-Helper
+[ERROR  ] [Georgiy00987/Home-Helper] Failed to get default branch: GitHub 404 — repo Georgiy00987/Home-Helper not found
+[INFO   ] [Georgiy00987_Home-Helper_08458df5] VFS ready: VirtualFS(files=0, ram=0B zlib)
+[ERROR  ] [Georgiy00987_Home-Helper_08458df5] VFS is empty — repo likely didn't load (rate limit/network). Skipping run.
+[INFO   ] [Georgiy00987/Shop-Minecraft] branch: main
+[DEBUG  ] [Georgiy00987/Shop-Minecraft] tarball → https://api.github.com/repos/Georgiy00987/Shop-Minecraft/tarball/main
+[DEBUG  ]   [skip !py]  addons.txt
+[DEBUG  ]   [skip !py]  likes.json
+[DEBUG  ]   [skip !py]  maps.txt
+[DEBUG  ]   [skip !py]  seeds.txt
+[DEBUG  ]   [skip !py]  texture_packs.txt
+[DEBUG  ]   [skip !py]  users.json
+[DEBUG  ]   [skip !py]  world_templates.txt
+[INFO   ] [Georgiy00987/Shop-Minecraft] loaded 0 | skipped 7 | err 0
+[INFO   ] [Georgiy00987_Shop-Minecraft_6dde62ea] VFS ready: VirtualFS(files=0, ram=0B zlib)
+[ERROR  ] [Georgiy00987_Shop-Minecraft_6dde62ea] VFS is empty — repo likely didn't load (rate limit/network). Skipping run.
+[INFO   ] Все проекты завершены.
+[WARNING] Deprecated property "<VariableListProperty name=padding_y>" of object "<kivy.uix.textinput.TextInput object at 0x73f70a16a0>" has been set, it will be removed in a future version
+[WARNING] Deprecated property "<VariableListProperty name=padding_x>" of object "<kivy.uix.textinput.TextInput object at 0x73f70a16a0>" has been set, it will be removed in a future version
+[INFO   ] Base: Leaving application in progress...
